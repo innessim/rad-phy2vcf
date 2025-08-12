@@ -9,7 +9,7 @@ git clone https://github.com/innessim/rad-phy2vcf
 ```
 ### Basic usage
 ### Optional usage (recommended)
-Create conda environment for `rad-phy2vcf`
+Create conda environment for `rad-phy2vcf`.
 ```
 conda create -n rad-phy2vcf
 ```
