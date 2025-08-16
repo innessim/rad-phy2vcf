@@ -12,7 +12,7 @@ git clone https://github.com/innessim/rad-phy2vcf.git /path/to/software/rad-phy2
 ### Basic usage
 Can be used from inside the repository directory:
 ```
-rad-phy2vcf --help
+python3 rad-phy2vcf --help
 ```
 > Note: If running from other directories, you will need to specify the full path to the script or have it in your `PATH`
 
